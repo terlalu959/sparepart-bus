@@ -1,0 +1,7 @@
+{
+  "name": "Sparepart Bis",
+  "description": "Aplikasi manajemen data sparepart bus terintegrasi barcode scanner dan detail unit armada bus yang terpasang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
